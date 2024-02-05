@@ -2,8 +2,6 @@
 let name = 'Mosh'
 console.log(name);
 
-let firstName
-
 // ***** Regras Das Variaveis ******
 // Não pode ter palavra reservada
 // Deve ter nomes significativos
