@@ -27,3 +27,6 @@ console.log(x <= 0);
 
 // Operador de Igualdade Estrito
 console.log(x === 10);
+
+// Operador de Igualdade Não-Estrito
+console.log(x == 10);
