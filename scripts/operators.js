@@ -47,3 +47,23 @@ console.log(true || false);
 
 // Operador Logico NOT (!)
 console.log(!true);
+
+// Short-Circuiting
+let userColor = undefined;
+const defaultColor = 'blue';
+let currentColor = userColor || defaultColor;
+
+console.log(currentColor);
+
+/*
+    Falsy (false)
+
+    underfined
+    null
+    0
+    false
+    ''
+    NaN
+
+*/
+// Tudo que não for Falsy -> Verdadeiro (Thuthy)
