@@ -35,5 +35,15 @@ console.log(x == 10);
 const points = 90;
 const typeOfConstumer = points > 100 ? 'gold' : 'silver';
 
-
 console.log(typeOfConstumer);
+
+// Operador Logico AND (&&)
+// Retorna Verdadeiro se todos operadores for verdadeiro
+
+console.log(true && true);
+
+// Operador Logico OU (||)
+console.log(true || false);
+
+// Operador Logico NOT (!)
+console.log(!true);
