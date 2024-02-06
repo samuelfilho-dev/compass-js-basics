@@ -30,3 +30,10 @@ console.log(x === 10);
 
 // Operador de Igualdade Não-Estrito
 console.log(x == 10);
+
+// Operador Ternário
+const points = 90;
+const typeOfConstumer = points > 100 ? 'gold' : 'silver';
+
+
+console.log(typeOfConstumer);
