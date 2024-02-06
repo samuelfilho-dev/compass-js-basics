@@ -14,3 +14,16 @@ console.log(x);
 
 // Decrement(--);
 console.log(--x);
+
+// Operadores de Atribuição
+x = x + 5;
+x += 5;
+
+// Operadores de Comparação
+console.log(x > 0);
+console.log(x >= 0);
+console.log(x < 0);
+console.log(x <= 0);
+
+// Operador de Igualdade Estrito
+console.log(x === 10);
